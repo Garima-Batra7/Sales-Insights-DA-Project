@@ -20,7 +20,7 @@ The SQL Database dump file 'db_dump.sql' consists of tables - customers, date, m
 - Microsoft Power BI - ETL and Data Cleaning
 - SQL
 
-## Data Cleaning
+
 
 
 
